@@ -1,0 +1,261 @@
+{
+ "https://huggingface.co/Xenova/clipseg-rd64-refined/resolve/main/config.json": {
+  "size": 794,
+  "sha256": "17e418f04a7728ce054371b7536c11965a71f2af147ed9beed6b8e11eaefa7b9",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "CLIPSeg (find things by name)"
+ },
+ "https://huggingface.co/Xenova/clipseg-rd64-refined/resolve/main/preprocessor_config.json": {
+  "size": 378,
+  "sha256": "f0ae4c1dd6bffbbfbb9aa2f461489dd72b41f6906743a8bfd258532f09c0332c",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "CLIPSeg (find things by name)"
+ },
+ "https://huggingface.co/Xenova/clipseg-rd64-refined/resolve/main/tokenizer.json": {
+  "size": 2224080,
+  "sha256": "342739d4a4b111d4b1bda83a96f5c518e1b162cc597252ac89ded17681791d31",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "CLIPSeg (find things by name)"
+ },
+ "https://huggingface.co/Xenova/clipseg-rd64-refined/resolve/main/tokenizer_config.json": {
+  "size": 775,
+  "sha256": "d64e766f161ee704a0f5c90419b4d4181239d675e8176d94efdb1c64bbcb0055",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "CLIPSeg (find things by name)"
+ },
+ "https://huggingface.co/Xenova/clipseg-rd64-refined/resolve/main/special_tokens_map.json": {
+  "size": 472,
+  "sha256": "c4864a9376a8401918425bed71fc14fc0e81f9b59ec45c1cf96cccb2df508eac",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "CLIPSeg (find things by name)"
+ },
+ "https://huggingface.co/Xenova/clipseg-rd64-refined/resolve/main/merges.txt": {
+  "size": 524619,
+  "sha256": "9fd691f7c8039210e0fced15865466c65820d09b63988b0174bfe25de299051a",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "CLIPSeg (find things by name)"
+ },
+ "https://huggingface.co/Xenova/clipseg-rd64-refined/resolve/main/vocab.json": {
+  "size": 862328,
+  "sha256": "5047b556ce86ccaf6aa22b3ffccfc52d391ea4accdab9c2f2407da5b742d4363",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "CLIPSeg (find things by name)"
+ },
+ "https://huggingface.co/Xenova/clipseg-rd64-refined/resolve/main/onnx/model_quantized.onnx": {
+  "size": 139115836,
+  "sha256": "049010b152839f339d6115e668d560860d0031f7b750b24828c07167ba68812a",
+  "parts": 3,
+  "licence": "Apache-2.0",
+  "what": "CLIPSeg (find things by name)"
+ },
+ "https://huggingface.co/Xenova/slimsam-77-uniform/resolve/main/config.json": {
+  "size": 379,
+  "sha256": "6339884f168658d3ca6473b486973913fb33e84e625e06ae2dd7b4a808187419",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "SlimSAM (pick an object)"
+ },
+ "https://huggingface.co/Xenova/slimsam-77-uniform/resolve/main/preprocessor_config.json": {
+  "size": 466,
+  "sha256": "225545a743c654e3c495ec6f545a0eaba57c8ba3fbbd8483b3cb1c0fc58db517",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "SlimSAM (pick an object)"
+ },
+ "https://huggingface.co/Xenova/slimsam-77-uniform/resolve/main/onnx/vision_encoder_fp16.onnx": {
+  "size": 12170657,
+  "sha256": "11aaeb49c75e7b3f4cbf8a32c2c819406520c6b3affb4068ff474b2240c8aa38",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "SlimSAM (pick an object)"
+ },
+ "https://huggingface.co/Xenova/slimsam-77-uniform/resolve/main/onnx/prompt_encoder_mask_decoder_fp16.onnx": {
+  "size": 8550118,
+  "sha256": "df24d49a6f1a5dc0dbbecd84ca0fff9f14c76e63b81fd35c2b92c1321b007f71",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "SlimSAM (pick an object)"
+ },
+ "https://huggingface.co/Xenova/slimsam-77-uniform/resolve/main/onnx/vision_encoder_quantized.onnx": {
+  "size": 8882165,
+  "sha256": "cce23c7b2e5d4f330932738fb67ba518e04b0d99ccdd1cccd22a7da4e01f2971",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "SlimSAM (pick an object)"
+ },
+ "https://huggingface.co/Xenova/slimsam-77-uniform/resolve/main/onnx/prompt_encoder_mask_decoder_quantized.onnx": {
+  "size": 4903810,
+  "sha256": "cb90b279f549d2cab7fd6e20c38522438c65d84bdcca3d2a764cff7d857fdce2",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "SlimSAM (pick an object)"
+ },
+ "https://huggingface.co/Xenova/swin2SR-classical-sr-x2-64/resolve/main/config.json": {
+  "size": 825,
+  "sha256": "e9ff87b27272c528232332f9c9d454d899940def893d3b53e3b76ef0b486a59f",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "Swin2SR 2\u00d7 (clean pictures)"
+ },
+ "https://huggingface.co/Xenova/swin2SR-classical-sr-x2-64/resolve/main/preprocessor_config.json": {
+  "size": 152,
+  "sha256": "cbc36266fcc93d5bc1e9ca69bcc648ae9d268918ad14cd3507216740f129cc4d",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "Swin2SR 2\u00d7 (clean pictures)"
+ },
+ "https://huggingface.co/Xenova/swin2SR-classical-sr-x2-64/resolve/main/onnx/model.onnx": {
+  "size": 54428699,
+  "sha256": "6dde3fe2440543ccae7c40d175609f83c18aeaa3d8456745c4329ef97ae744bd",
+  "parts": 2,
+  "licence": "Apache-2.0",
+  "what": "Swin2SR 2\u00d7 (clean pictures)"
+ },
+ "https://huggingface.co/Xenova/swin2SR-classical-sr-x2-64/resolve/main/onnx/model_quantized.onnx": {
+  "size": 21471413,
+  "sha256": "83cff83efba9df253c5d11cda5b944d0ce4d4ef595d2669dc268421519fe34ec",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "Swin2SR 2\u00d7 (clean pictures)"
+ },
+ "https://huggingface.co/Xenova/swin2SR-realworld-sr-x4-64-bsrgan-psnr/resolve/main/config.json": {
+  "size": 837,
+  "sha256": "96dd766fe3e4139fc1b5cc3eb940e940bd97ad28072168bd015f05cafd818994",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "Swin2SR 4\u00d7 (old photos)"
+ },
+ "https://huggingface.co/Xenova/swin2SR-realworld-sr-x4-64-bsrgan-psnr/resolve/main/preprocessor_config.json": {
+  "size": 152,
+  "sha256": "cbc36266fcc93d5bc1e9ca69bcc648ae9d268918ad14cd3507216740f129cc4d",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "Swin2SR 4\u00d7 (old photos)"
+ },
+ "https://huggingface.co/Xenova/swin2SR-realworld-sr-x4-64-bsrgan-psnr/resolve/main/onnx/model.onnx": {
+  "size": 52772645,
+  "sha256": "f496dc73dcc01d778b1a12eb4c4038d6b27cd1c0b5bcd4258455ed6d7816c835",
+  "parts": 2,
+  "licence": "Apache-2.0",
+  "what": "Swin2SR 4\u00d7 (old photos)"
+ },
+ "https://huggingface.co/Xenova/swin2SR-realworld-sr-x4-64-bsrgan-psnr/resolve/main/onnx/model_quantized.onnx": {
+  "size": 21438622,
+  "sha256": "9e9bae06e1c280a1f2f5ab093312ee1ec39186afc8912259bb9e3de838f85fb8",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "Swin2SR 4\u00d7 (old photos)"
+ },
+ "https://huggingface.co/Xenova/swin2SR-compressed-sr-x4-48/resolve/main/config.json": {
+  "size": 830,
+  "sha256": "d8bbbbc19933e760c29fe49e98c18001a7ec208f21b47c4531abac75348060d9",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "Swin2SR 4\u00d7 (JPEG clean-up)"
+ },
+ "https://huggingface.co/Xenova/swin2SR-compressed-sr-x4-48/resolve/main/preprocessor_config.json": {
+  "size": 152,
+  "sha256": "cbc36266fcc93d5bc1e9ca69bcc648ae9d268918ad14cd3507216740f129cc4d",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "Swin2SR 4\u00d7 (JPEG clean-up)"
+ },
+ "https://huggingface.co/Xenova/swin2SR-compressed-sr-x4-48/resolve/main/onnx/model.onnx": {
+  "size": 55046351,
+  "sha256": "2038700d530bb756a29552d7c8ddbd4a8f734df6cc43162ed543360a7aeb02f7",
+  "parts": 2,
+  "licence": "Apache-2.0",
+  "what": "Swin2SR 4\u00d7 (JPEG clean-up)"
+ },
+ "https://huggingface.co/Xenova/swin2SR-compressed-sr-x4-48/resolve/main/onnx/model_quantized.onnx": {
+  "size": 21639405,
+  "sha256": "d9a739b9cfce4963f989dc54977dea168fea2c35a86a26e891b87e44653c93bf",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "Swin2SR 4\u00d7 (JPEG clean-up)"
+ },
+ "https://huggingface.co/onnx-community/BEN2-ONNX/resolve/main/config.json": {
+  "size": 80,
+  "sha256": "a1955f3bbdd628a0ea0339ec14bc98ba7b09e1a35d267e4ab01e902d2489dfa5",
+  "parts": 1,
+  "licence": "MIT",
+  "what": "BEN2 (best-quality cut-out)"
+ },
+ "https://huggingface.co/onnx-community/BEN2-ONNX/resolve/main/preprocessor_config.json": {
+  "size": 391,
+  "sha256": "447d9ccb2c4129ab0ca045fc293e7d79dbc45e293ac1e94818d865db77f65a54",
+  "parts": 1,
+  "licence": "MIT",
+  "what": "BEN2 (best-quality cut-out)"
+ },
+ "https://huggingface.co/onnx-community/BEN2-ONNX/resolve/main/onnx/model_fp16.onnx": {
+  "size": 219121675,
+  "sha256": "dfdc25f421f32a0d1268e0f2ff2153d340e8f1d52d3dd16f5dc33c1ce85cedf1",
+  "parts": 5,
+  "licence": "MIT",
+  "what": "BEN2 (best-quality cut-out)"
+ },
+ "https://huggingface.co/BritishWerewolf/U-2-Net/resolve/main/onnx/model.onnx": {
+  "size": 175997641,
+  "sha256": "8d10d2f3bb75ae3b6d527c77944fc5e7dcd94b29809d47a739a7a728a912b491",
+  "parts": 4,
+  "licence": "Apache-2.0",
+  "what": "U\u00b2-Net (background cut-out)"
+ },
+ "https://huggingface.co/BritishWerewolf/U-2-Netp/resolve/main/onnx/model.onnx": {
+  "size": 4574861,
+  "sha256": "309c8469258dda742793dce0ebea8e6dd393174f89934733ecc8b14c76f4ddd8",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "U\u00b2-Netp (cut-out, small)"
+ },
+ "https://huggingface.co/SceneWorks/real-esrgan-onnx/resolve/main/real_esrgan_x4.onnx": {
+  "size": 67051616,
+  "sha256": "5c586662929cbc686c1a5c38d9c060dbdb4ea5863a1f7672b8c0761e6b89c033",
+  "parts": 2,
+  "licence": "BSD-3-Clause",
+  "what": "Real-ESRGAN 4\u00d7 and 2\u00d7"
+ },
+ "https://huggingface.co/SceneWorks/real-esrgan-onnx/resolve/main/real_esrgan_x2.onnx": {
+  "size": 67073434,
+  "sha256": "7115ba92e8a1bfa63d68558ef006ef3d91273a068d321b1439f8bb1c9179002c",
+  "parts": 2,
+  "licence": "BSD-3-Clause",
+  "what": "Real-ESRGAN 4\u00d7 and 2\u00d7"
+ },
+ "https://huggingface.co/andraniksargsyan/migan/resolve/main/migan_pipeline_v2.onnx": {
+  "size": 28079181,
+  "sha256": "6f1f3530a1a2324b19752018ce756088b07973cda8d7d890034ace5c8a48c40b",
+  "parts": 1,
+  "licence": "MIT",
+  "what": "MI-GAN (repair)"
+ },
+ "https://huggingface.co/bluefoxcreation/Codeformer-ONNX/resolve/main/codeformer.onnx": {
+  "size": 376821950,
+  "sha256": "91e7e881c5001fea4a535e8f96eaeaa672d30c963a678a3e27f0429a6620f57a",
+  "parts": 8,
+  "licence": "S-Lab License 1.0 (non-commercial use only)",
+  "what": "CodeFormer (restore faces)"
+ },
+ "https://huggingface.co/edgetools/ddcolor/resolve/main/ddcolor-tiny-fp16.onnx": {
+  "size": 135444402,
+  "sha256": "2653da00dc15e54a45e5200b61dbf82ee9ceaf56b02bb9b9657569ac775e82e6",
+  "parts": 3,
+  "licence": "Apache-2.0",
+  "what": "DDColor-tiny (colourise)"
+ },
+ "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task": {
+  "size": 3758596,
+  "sha256": "64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff",
+  "parts": 1,
+  "licence": "Apache-2.0",
+  "what": "MediaPipe Face Landmarker (face finder)"
+ }
+}
